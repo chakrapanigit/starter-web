@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> chakrapani <twitter>
+    <name> Sai Ram <twitter>
+nandaluri@yahoo.com
+magnetic
 
 # THANKS
 
