@@ -5,7 +5,7 @@
 
     <name> Sai Ram <twitter>
 nandaluri@yahoo.com
-magnetic
+mip
 
 # THANKS
 
@@ -16,3 +16,4 @@ magnetic
     HTML5, CSS4
     jQuery, Modernizr
 css
+docker,java programming
