@@ -6,6 +6,7 @@ a lot subjects
 ## Purpose
 ok now
 this is famous
+chakrapani
 
 
 Sample website with plenty of files for demos
@@ -13,3 +14,4 @@ Sample website with plenty of files for demos
 adding git compaysions lessions
 
 ##fig comparision repos
+devops
