@@ -15,4 +15,5 @@ magnetic
 
     HTML5, CSS4
     jQuery, Modernizr
-css
+mechine learning,aws,google cloud
+
