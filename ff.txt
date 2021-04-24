@@ -1,0 +1,12 @@
+diff --git a/humans.txt b/humans.txt
+index 5b037cf..ad96f56 100644
+--- a/humans.txt
++++ b/humans.txt
+@@ -11,5 +11,6 @@
+ 
+ # TECHNOLOGY COLOPHON
+ 
+-    HTML5, CSS3
++    HTML5, CSS4
+     jQuery, Modernizr
++css

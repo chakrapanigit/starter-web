@@ -9,3 +9,7 @@ this is famous
 
 
 Sample website with plenty of files for demos
+##git coparision
+adding git compaysions lessions
+
+##fig comparision repos
